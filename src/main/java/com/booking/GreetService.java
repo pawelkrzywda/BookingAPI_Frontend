@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.booking;
 
 public class GreetService {
 
