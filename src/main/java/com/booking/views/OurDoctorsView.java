@@ -1,6 +1,7 @@
 package com.booking.views;
 
 import com.booking.dto.DoctorDto;
+import com.booking.service.DoctorService;
 import com.vaadin.flow.component.dependency.CssImport;
 import com.vaadin.flow.component.grid.Grid;
 import com.vaadin.flow.component.orderedlayout.VerticalLayout;
@@ -11,6 +12,7 @@ import com.vaadin.flow.router.Route;
 @CssImport(value = "./styles/vaadin-text-field-styles.css", themeFor = "vaadin-text-field")
 public class OurDoctorsView extends VerticalLayout {
 
+    private final DoctorService doctorService = DoctorService.getInstance();
     Grid<DoctorDto> grid = new Grid<>(DoctorDto.class);
 
     public OurDoctorsView() {
@@ -18,6 +20,7 @@ public class OurDoctorsView extends VerticalLayout {
         grid.setSizeFull();
         add(grid);
 
+        grid.setItems(doctorService.getDoctors());
     }
 
 }
