@@ -5,13 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a00278f-d781-4fd7-80fc-f0daff874f42" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/booking/views/MainView.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/AppShell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/booking/AppShell.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/DemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/booking/BookingApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/GreetService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/booking/GreetService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/MainView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/demo/DemoApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/booking/BookingApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/booking/views/AboutUsView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/booking/views/AboutUsView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/booking/views/BookVisitView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/booking/views/BookVisitView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/booking/views/ContactView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/booking/views/ContactView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/booking/views/OurDoctorsView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/booking/views/OurDoctorsView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +111,10 @@
       <updated>1676896346057</updated>
       <workItem from="1676896347446" duration="327000" />
       <workItem from="1676896700640" duration="357000" />
-      <workItem from="1676922466328" duration="6712000" />
+      <workItem from="1676922466328" duration="7788000" />
+      <workItem from="1676965744144" duration="2350000" />
+      <workItem from="1676968234995" duration="63000" />
+      <workItem from="1676968469304" duration="1060000" />
     </task>
     <servers />
   </component>
